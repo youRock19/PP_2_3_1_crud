@@ -1,0 +1,9 @@
+crud\dao\UserDaoImpl.class
+crud\model\User.class
+crud\controller\UserController.class
+crud\service\UserService.class
+crud\config\AppInit.class
+crud\config\HibernateConfig.class
+crud\dao\UserDao.class
+crud\service\UserServiceImpl.class
+crud\config\WebConfig.class
